@@ -1,0 +1,8 @@
+@mixin clearBoth{
+	content: "";
+	display: block;
+	height: 0px;
+	clear: both;
+	overflow: hidden;
+	visibility: hidden;
+}s
